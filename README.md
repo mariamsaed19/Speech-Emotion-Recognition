@@ -2,7 +2,9 @@
 ![License](https://img.shields.io/badge/License-GPL&ndash;3.0%20-purple.svg)
 
 # Speech-Emotion-Recogonition
-
+## Two CNN models with two different feature spaces were implemented
+- 1D model using the time domain feature space
+- 2D model using mel spectrogram
 ## Structure of The First Model (1D)
 ![image](https://user-images.githubusercontent.com/58489322/169652237-a329a396-1f60-40ba-bc1e-0e60e40ed006.png)
 
