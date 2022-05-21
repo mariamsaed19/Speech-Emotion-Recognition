@@ -1,7 +1,7 @@
 ![Language](https://img.shields.io/badge/language-Python%20-blue.svg)
 ![License](https://img.shields.io/badge/License-GPL&ndash;3.0%20-purple.svg)
 
-# Speech-Emotion-Recogonition
+# Speech-Emotion-Recognition
 ## Two CNN models with two different feature spaces were implemented
 - 1D model using the time domain feature space
 - 2D model using mel spectrogram
