@@ -3,5 +3,5 @@
 
 # Speech-Emotion-Recogonition
 ## Screenshots
-*Emotion : Sad
+  * Emotion : Sad
 ![image](https://user-images.githubusercontent.com/58489322/169651974-19279bb3-83f5-49be-a42f-4bbf07fce64f.png)
